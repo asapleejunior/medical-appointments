@@ -1,0 +1,3 @@
+// Procedures globales du projet
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJ4X3Bjc29mdF9ub21fbG9naXF1ZSI6IlByb2PDqWR1cmVzTmF2aWdhdGV1ciIsInhfcGNzb2Z0X3R5cGVfbG9naXF1ZSI6IjY1NTM5IiwieF9wY3NvZnRfaWRfZW5zZW1ibGUiOiI1MDk2Mjk5NDEwNTAxOTgxOTM5IiwibWFwcGluZ3MiOiJBIn0=
+function PROCEDURESNAVIGATEUR_LOD(event){var __VARS0=new NSPCS.NSValues.CVariablesLocales(0,1);try{clWDUtil.Try();{void 0;void 0;void 0;void 0;void 0;void 0;void 0;void 0;void 0;}}catch(_E){clWDUtil.xbCatchThrow(_E,event);return;}finally{clWDUtil&&clWDUtil.oFinally();}}PROCEDURESNAVIGATEUR_LOD[NSPCS.ms_oSymbolDepuisWLEnV2]=true;

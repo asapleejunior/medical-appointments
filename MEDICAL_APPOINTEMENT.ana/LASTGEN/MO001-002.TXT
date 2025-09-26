@@ -1,0 +1,5 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+TLOGIN		TAR	178	nouvelle taille enregistrement : 178
+TLOGIN	IDTTYPE	RUB+		IDTTYPE est une nouvelle clé
+TTYPE		NFI		nouveau fichier
+Contrainte_TTYPE_TLOGIN		NWL	TTYPE (IDTTYPE) et TLOGIN (IDTTYPE)	Nouvelle liaison entre les fichiers TTYPE (IDTTYPE) et TLOGIN (IDTTYPE)

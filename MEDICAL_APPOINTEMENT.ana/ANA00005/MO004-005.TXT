@@ -1,0 +1,6 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+TAUTHENTIFICATION		TAR	120	nouvelle taille enregistrement : 120
+TAUTHENTIFICATION	TYPE	NNR	IDTTYPE	ATTENTION : la rubrique IDTTYPE a pour nouveau nom TYPE
+TAUTHENTIFICATION	TYPE	CLE-*		la rubrique TYPE n'est plus une clé
+TAUTHENTIFICATION	TYPE	CNW	Entier non signé sur 1 octet$Entier sur 8 octets	la rubrique TYPE a pour nouveau type Entier non signé sur 1 octet
+TAUTHENTIFICATION	TYPE	RRM		

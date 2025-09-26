@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>[%_PROJET_WEB_%]/FR/ACCUEIL-TOUT1.awp</loc><lastmod>2024-09-02</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/MEDECIN-RDV.awp</loc><lastmod>2024-09-02</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/ZR-TSPECIALITE-MEDECIN.awp</loc><lastmod>2024-09-03</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/ZR-TRENDEZ-VOUS.awp</loc><lastmod>2024-09-03</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/PATIENT-APROPOS.awp</loc><lastmod>2024-09-02</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/PATIENT-PROFILE.awp</loc><lastmod>2024-09-02</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/PATIENT-RDV.awp</loc><lastmod>2024-09-02</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/PAGE_Vision_TMEDECIN.awp</loc><lastmod>2024-09-02</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/ZR-TMEDECIN.awp</loc><lastmod>2024-09-03</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/ZR-TAUTH.awp</loc><lastmod>2024-09-03</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/ZR-TPATIENT.awp</loc><lastmod>2024-09-03</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/ZR-TTYPE-AU.awp</loc><lastmod>2024-09-03</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/PAGE_Vision_TPATIENT.awp</loc><lastmod>2024-09-02</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/PAGE_Vision_TSPECIALITE_MEDECIN.awp</loc><lastmod>2024-09-02</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/PAGE_Vision_TTYPE_AU.awp</loc><lastmod>2024-09-02</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/PAGE_Vision_TRENDEZ_VOUS.awp</loc><lastmod>2024-09-02</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/PAGE_Vision_TAUTH.awp</loc><lastmod>2024-09-02</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/Fiche-TMEDECIN.awp</loc><lastmod>2024-09-03</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/Fiche-TPATIENT.awp</loc><lastmod>2024-09-03</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/Fiche-TSPECIALITE-MEDECIN.awp</loc><lastmod>2024-09-03</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/Fiche-TTYPE-AU.awp</loc><lastmod>2024-09-03</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/Fiche-TRENDEZ-VOUS.awp</loc><lastmod>2024-09-03</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/Fiche-TAUTH.awp</loc><lastmod>2024-09-03</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/RECHERCHE.awp</loc><lastmod>2024-09-06</lastmod></url>
+</urlset>
