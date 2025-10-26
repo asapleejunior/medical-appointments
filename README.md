@@ -1,2 +1,1 @@
-Il s'agit d'une application web conçu pour gérer les rendez-vous médicaux d'une clinique fictive.
-Cette application web n'est pas déployée donc vous pourrez l'ouvrir uniquement avec Webdev25
+This is a web application designed to manage medical appointments for a fictional clinic. This web application is not deployed, so you can only open it with Webdev25.
